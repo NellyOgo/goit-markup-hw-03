@@ -20,6 +20,7 @@
 img {
     display: block;
     height: auto;
+    border: 1px solid #E7E9FC;
 }
 
 /*index*/
@@ -339,7 +340,9 @@ margin-right: 1020px;
     padding-top: 32px;
     padding-bottom: 32px;
     padding-left: 16px;
+    border: 1px solid #E7E9FC;
 }
+
 
  
 .pages-portfolio {
